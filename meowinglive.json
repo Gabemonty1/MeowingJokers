@@ -1,0 +1,16 @@
+{
+	"id": "meowinglive",
+	"name": "MeowingLive",
+	"display_name": "Meowing Live",
+	"author": ["Real Meower"],
+	"description": "First mod made by a guy who doesn't know Lua :D",
+	"prefix": "Meowing",
+	"main_file": "src/essay.lua",
+	"priority": 1,
+	"badge_colour": "006A00",
+	"badge_text_colour": "FBA105",
+	"version": "1.1.0",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1416a)"
+	]
+}
