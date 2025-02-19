@@ -1,0 +1,4 @@
+MeowingLive = {}
+MeowingLive.INIT = {
+    Jokers = {}
+}
